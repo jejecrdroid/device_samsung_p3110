@@ -40,7 +40,7 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/espresso-common/overlay/slim-common
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := p3110
-PRODUCT_NAME := slim_p3110
+PRODUCT_NAME := crdroid_p3110
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := GT-P3110
 PRODUCT_MANUFACTURER := samsung
